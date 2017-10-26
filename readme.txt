@@ -1,0 +1,1 @@
+This is a simple digital greeting card containing a birthday message. To view the project, simply clone it and open index.html in a web browser.
